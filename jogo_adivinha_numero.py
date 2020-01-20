@@ -19,7 +19,7 @@ jogador = ''
 numero_secreto = random.randint(1, 100)
 
 print('#################################################')
-print('Bem vindo ao jogo de advinha')
+print('Bem vindo ao jogo de adivinha')
 print('Você terá sete chances para adivinhar o número')
 print('#################################################')
 
